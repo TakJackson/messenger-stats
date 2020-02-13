@@ -1,0 +1,145 @@
+{
+    "participants": [
+      {
+        "name": "Elijah Leung"
+      },
+      {
+        "name": "Daniel Carter"
+      },
+      {
+        "name": "Caleb Leung"
+      },
+      {
+        "name": "Owen Kwok"
+      },
+      {
+        "name": "Khang Buffini"
+      },
+      {
+        "name": "Jackson Sugars"
+      },
+      {
+        "name": "Jason Tsou"
+      },
+      {
+        "name": "Jayden Doedens"
+      },
+      {
+        "name": "Jesse Asquith"
+      }
+    ],
+    "messages": [
+      {
+        "sender_name": "Jesse Asquith",
+        "timestamp_ms": 1577803220463,
+        "content": "\u00f0\u009f\u0091\u008a",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "Jesse Asquith",
+        "timestamp_ms": 1575011125322,
+        "content": "Out on Spotify soon haha",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "Jesse Asquith",
+        "timestamp_ms": 1575011105982,
+        "content": "Yt link too",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "Khang Buffini",
+        "timestamp_ms": 1575011104220,
+        "content": "hahaha",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "Jesse Asquith",
+        "timestamp_ms": 1575011094746,
+        "content": "https://www.youtube.com/watch?v=-xiGoAXZEf8&feature=share",
+        "share": {
+          "link": "https://www.youtube.com/watch?v=-xiGoAXZEf8"
+        },
+        "type": "Share"
+      },
+      {
+        "sender_name": "Khang Buffini",
+        "timestamp_ms": 1575011062682,
+        "content": "Listen to Ridin' by Cashe on #SoundCloud\nhttps://soundcloud.com/cashemusic/ridin-2",
+        "share": {
+          "link": "https://soundcloud.com/cashemusic/ridin-2"
+        },
+        "type": "Share"
+      },
+      {
+        "sender_name": "Jackson Sugars",
+        "timestamp_ms": 1575003262394,
+        "content": "Fair",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "Jesse Asquith",
+        "timestamp_ms": 1575003238273,
+        "content": "Fair",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "Khang Buffini",
+        "timestamp_ms": 1575003009805,
+        "content": "Fair",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "Owen Kwok",
+        "timestamp_ms": 1575002923359,
+        "content": "Fair",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "Khang Buffini",
+        "timestamp_ms": 1561619220235,
+        "content": "this is a sausage fest",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "Jayden Doedens",
+        "timestamp_ms": 1561618843905,
+        "content": "And aight allg",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "Jayden Doedens",
+        "timestamp_ms": 1561618836363,
+        "content": "Not sure",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "Jackson Sugars",
+        "timestamp_ms": 1561618757338,
+        "content": "In Townsville till the 14th but thanks for the add",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "Caleb Leung",
+        "timestamp_ms": 1561618750679,
+        "content": "what u wanna do",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "Jayden Doedens",
+        "timestamp_ms": 1561618685032,
+        "content": "Oi guys lets do somthing Friday arvo",
+        "type": "Generic"
+      },
+      {
+        "sender_name": "Jayden Doedens",
+        "timestamp_ms": 1561618674509,
+        "content": "Jayden named the group Dropkicks.",
+        "type": "Generic"
+      }
+    ],
+    "title": "2020 is cancelled",
+    "is_still_participant": true,
+    "thread_type": "RegularGroup",
+    "thread_path": "inbox/2020iscancelled_zgKYs5QW2g"
+  }
